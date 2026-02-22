@@ -25,8 +25,8 @@ It only reacts based on the current percept (location, status).
 
 See the screenshots below.
 
-![Output](output1.png)
-![Output](output2.png)
+![Output](Output1.png)
+![Output](Output2.png)
 
 
 ---
